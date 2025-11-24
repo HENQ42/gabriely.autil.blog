@@ -1,13 +1,11 @@
 ---
-title: Exemplo dos Melhores Recursos do Hextra
+title: "Exemplo dos Melhores Recursos do Hextra"
 date: 2023-10-27
+draft: false
 description: "Um showcase interativo dos componentes mais poderosos do tema Hextra."
-tags:
-- blog
-- site
 ---
 
-Bem-vindo à demonstração dos recursos. Abaixo você verá como este tema transforma Markdown simples em documentação rica e interativa.
+Bem-vindo à demonstração dos recursos do Hextra. Abaixo você verá como este tema transforma Markdown simples em documentação rica e interativa.
 
 ## 1. Callouts (Alertas)
 
@@ -45,13 +43,3 @@ Adicione o tema ao seu `hugo.toml` e inicie o servidor local.
 {{% /steps %}}
 
 ---
-
-## 3. Abas e Código (Tabs)
-
-Organize instruções para diferentes sistemas ou linguagens sem poluir a página.
-
-{{< tabs items="npm,pnpm,yarn" >}}
-
-{{< tab >}}
-```bash
-npm install hextra-theme
