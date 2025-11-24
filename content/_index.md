@@ -1,5 +1,5 @@
 ---
-title: Henrique Macêdo's Blog
+title: Gabriely Macêdo's Blog
 toc: true
 ---
 
