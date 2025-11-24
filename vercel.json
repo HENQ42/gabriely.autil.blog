@@ -1,0 +1,5 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "source ./go_install.sh && source ./hugo_install.sh && hugo --gc --minify",
+  "outputDirectory": "public"
+}
